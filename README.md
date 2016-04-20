@@ -35,4 +35,4 @@ Short document describing:
 
 Additional deliverable:
  - Suggestions how to test the web site
-- Unit tests for the code
+ - Unit tests for the code
