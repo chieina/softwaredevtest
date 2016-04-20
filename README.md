@@ -32,6 +32,7 @@ Short document describing:
 - What’s finished
 - Todos
 - Suggestions for improvements
-- Additional deliverable:
- -- Suggestions how to test the web site
- -- Unit tests for the code
+
+Additional deliverable:
+ - Suggestions how to test the web site
+- Unit tests for the code
