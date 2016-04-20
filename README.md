@@ -1,5 +1,3 @@
-# softwaredevtest
-
 TVPage Developer Test
 =====================
 
